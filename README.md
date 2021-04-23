@@ -3,10 +3,12 @@
 
 <p>
 
-I am a 4th Computer Engineering Student in İzmir Institute of Technology and I am a mobile application developer.  I am interested in mobile application development. I follow the technologies on mobile application development and I am developing myself about Swift and React Native.
+I am a 4th Computer Engineering Student in Izmir Institute of Technology and I am a mobile application developer.  I am interested in mobile application development. I follow the technologies on mobile application development and I am developing myself about Swift and React Native.
 
 
 </p>
+
+📫 How to reach me **rdvnmrtoglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
