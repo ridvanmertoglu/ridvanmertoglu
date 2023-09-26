@@ -3,7 +3,7 @@
 
 <p>
 
-I am a 4th Computer Engineering Student in Izmir Institute of Technology and I am a mobile application developer.  I am interested in mobile application development. I follow the technologies on mobile application development and I am developing myself about Swift and React Native.
+I graduated from Izmir Institute of Technology department of Computer Engineering.  I am a mobile application developer.  I am interested in mobile application development. I follow the technologies on mobile application development and I am developing myself about Swift and React Native.
 
 
 </p>
